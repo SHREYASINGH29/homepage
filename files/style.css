@@ -15,7 +15,7 @@ html, body {
 	margin: 0;
 	width: 100%;
 	height: 100%;
-	background-color: #e9e1ed;
+	background-color; white;
 	color: #000000;
 }
 
@@ -577,7 +577,7 @@ ul.share-buttons .sr-only{
 }
 
 .travel_wrapper{
-	padding-top: 100px;
+	padding-top: 0px;
 }
 
 .loc{
